@@ -1,8 +1,7 @@
-# [Project Name]
+# StaySafe
 
-[Value Proposition]
+ For people who aren’t able to identify suspicious things on the internet, my app is a product that informs people how to be safer on the internet, and what to do if they get viruses 
 
-[As needed, provide more about what the applicaiton does, the primary stakeholders and the value it brings each.]
 
 ## Links
 
